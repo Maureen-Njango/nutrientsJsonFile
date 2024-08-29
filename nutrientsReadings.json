@@ -1,0 +1,40 @@
+{
+    "nutrients": [
+      {
+        "name": "Nitrogen (N)",
+        "interpretation": "Low: Nitrogen application needed",
+        "recommendations": "Apply Nitrogen fertilizer according to crop needs. e.g., Urea, Ammonium Nitrate, Nitrate of Soda"
+      },
+      {
+        "name": "Phosphorus (P)",
+        "interpretation": "Low: Lime application needed",
+        "recommendations": "Apply Phosphorus fertilizer e.g., Triple Super Phosphate, Monoammonium Phosphate (MAP), DMBL Ruiru NPK fertilizer"
+      },
+      {
+        "name": "Potassium (K)",
+        "interpretation": "Low: Potassium application needed",
+        "recommendations": "Apply Potassium fertilizer e.g., Potassium Nitrate, Sulfate of Potash"
+      },
+      {
+        "name": "Calcium (Ca)",
+        "interpretation": "Low: Lime application recommended",
+        "recommendations": "Apply lime to increase Calcium levels and improve soil structure e.g., Calcium Ammonium Nitrate (CAN), Calcium Carbonate, Calcium Nitrate"
+      },
+      {
+        "name": "Magnesium (Mg)",
+        "interpretation": "Low: Magnesium application needed",
+        "recommendations": "Apply magnesium sulfate e.g., Magnesium Oxide, Magnesium Sulfate"
+      },
+      {
+        "name": "Soil pH",
+        "interpretation": "Acidic: Lime application needed",
+        "recommendations": "Apply lime to raise pH e.g., Ammonium Nitrate, Calcium Carbonate"
+      },
+      {
+        "name": "Organic Matter",
+        "interpretation": "Low: Increase organic matter",
+        "recommendations": "Add compost manure and other organic materials to enhance soil e.g., Phosphorus Fertilizers, Balanced NPK Fertilizers"
+      }
+    ]
+  }
+  
